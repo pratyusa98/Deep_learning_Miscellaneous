@@ -1,2 +1,2 @@
 # Different_Ensemble_Models
-Here I am going to ensemble different type of models such that CNN,ANN,RNN and combaine them to predcit more accuratly.
+Here I will ensemble different models such as CNN, ANN, and RNN and combine them to predict more accurately. Also, demonstrate how LSTM works in tabular data and many more. Please like this repo, and many things will be uploaded in this very soon.
